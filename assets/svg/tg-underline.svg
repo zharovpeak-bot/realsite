@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="12" viewBox="0 0 240 12" fill="none">
+  <defs>
+    <linearGradient id="tg-underline-gradient" x1="0" y1="6" x2="240" y2="6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#24B39C" stop-opacity="0"/>
+      <stop offset="0.18" stop-color="#24B39C" stop-opacity="0.65"/>
+      <stop offset="0.5" stop-color="#24B39C"/>
+      <stop offset="0.82" stop-color="#24B39C" stop-opacity="0.65"/>
+      <stop offset="1" stop-color="#24B39C" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M6 9C37 3 73 3 104 9C139 15 171 15 206 9C222 6 231 6 236 7" stroke="url(#tg-underline-gradient)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
